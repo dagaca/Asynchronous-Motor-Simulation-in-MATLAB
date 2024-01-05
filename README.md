@@ -62,4 +62,4 @@ Alzubaydy, A. I. J., Dorohobid, V. P., Hasan, M. S., & Borozdin, M. K. (2018). R
 
 1. Bu repo'yu bilgisayarınıza klonlayın.
    ```bash
-   git clone https://github.com/dagaca/Asynchronous-Motor-Model-in-MATLAB.git
+   git clone https://github.com/dagaca/Asynchronous-Motor-Simulation-in-MATLAB.git
