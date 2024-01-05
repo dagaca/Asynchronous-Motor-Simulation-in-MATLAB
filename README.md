@@ -1,5 +1,5 @@
 # Asynchronous-Motor-Model-in-MATLAB
-Bu MATLAB Simulink projesi, "RESEARCH OF THE DIRECT TORQUE CONTROL SYSTEM BY INDUCTION MOTOR" başlıklı makaleden elde edilen parametrelerle 2 çift kutuplu bir motorun simülasyonunu içermektedir. Motor boşta çalışma koşullarında simüle edilmiştir.
+Bu MATLAB Simulink projesi, "RESEARCH OF THE DIRECT TORQUE CONTROL SYSTEM BY INDUCTION MOTOR" başlıklı makaleden elde edilen parametrelerle 2 çift kutuplu bir asenkron motorun simülasyonunu içermektedir. Motor boşta çalışma koşullarında simüle edilmiştir.
 
 
 ## Motor Simulink Modeli
