@@ -1,4 +1,4 @@
-# Asynchronous-Motor-Model-in-MATLAB
+# Asynchronous-Motor-Simulation-in-MATLAB
 
 ## Genel Bakış
 
