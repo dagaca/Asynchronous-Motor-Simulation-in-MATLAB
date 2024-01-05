@@ -14,12 +14,12 @@ Motor parametreleri aşağıdaki gibidir:
 
 
 
-Frictional loss = 11W, Windage loss = 11W, Toplam kayıp = 22W
-Wn = (2*pi*1450) / 60 = 151.84 rad/s
-22 / 151.84 = 0.14489 Nm
-Friction factor = 0.0009542 F(N.m.s)
+- Frictional loss = 11W, Windage loss = 11W, Toplam kayıp = 22W
+- Wn = (2*pi*1450) / 60 = 151.84 rad/s
+- 22 / 151.84 = 0.14489 Nm
+- Friction factor = 0.0009542 F(N.m.s)
 
-Diğer parametreler kaynak makaleden alınmıştır.
+- Diğer parametreler kaynak makaleden alınmıştır.
 
 
 
