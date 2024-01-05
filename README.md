@@ -7,7 +7,8 @@ MATLAB Simulink projesi MATLAB R2017b sürümü kullanılarak oluşturulmuştur.
 
 ## Asenkron Motor Simulink Modeli
 
-![simulink_gorsel](https://github.com/dagaca/Asynchronous-Motor-Model-in-MATLAB/assets/80363244/2404f001-978b-42e8-b530-6bd10e4de260)
+![simulink_gorsel](https://github.com/dagaca/Asynchronous-Motor-Simulation-in-MATLAB/assets/80363244/190ef337-a192-4193-a6f1-51a838c93455)
+
 
 
 **Asenkron Motor parametreleri aşağıdaki gibidir:**
@@ -26,32 +27,38 @@ Diğer parametreler kaynak makaleden alınmıştır.
 ## Grafikler
 ### Hız Grafiği
 
-![hızgrafiği](https://github.com/dagaca/Asynchronous-Motor-Model-in-MATLAB/assets/80363244/a29e1fdc-12b1-435b-b85b-b493f4884b27)
+![hız](https://github.com/dagaca/Asynchronous-Motor-Simulation-in-MATLAB/assets/80363244/9158ee1d-6f7d-4249-bfb0-f8f0bd0b3575)
+
 
 
 ### Tork Grafiği
 
-![torkgrafiği](https://github.com/dagaca/Asynchronous-Motor-Model-in-MATLAB/assets/80363244/7ec56c90-dc5f-4c0e-a9cf-bd5df7d49327)
+![tork](https://github.com/dagaca/Asynchronous-Motor-Simulation-in-MATLAB/assets/80363244/1770cb08-ca22-4e51-b99c-6c87651f6ebf)
+
 
 
 ### Stator Akımları Grafiği
 
-![statorakımlarıgrafiği](https://github.com/dagaca/Asynchronous-Motor-Model-in-MATLAB/assets/80363244/b35c9eff-3790-4017-93c1-7822ade38a9e)
+![statorakımları](https://github.com/dagaca/Asynchronous-Motor-Simulation-in-MATLAB/assets/80363244/5d83480e-f332-4b73-adca-02c6d32b175b)
+
 
 
 ### Rotor Akımları Grafiği
 
-![rotorakımlarıgrafiği](https://github.com/dagaca/Asynchronous-Motor-Model-in-MATLAB/assets/80363244/4ad2e0b4-469b-4ea0-9310-0c11ec31a0ef)
+![rotorakımları](https://github.com/dagaca/Asynchronous-Motor-Simulation-in-MATLAB/assets/80363244/7219b3fe-a2eb-45d9-812e-8d1ac82b63b1)
+
 
 
 ### Stator Voltajı Grafiği
 
-![statorvoltajı](https://github.com/dagaca/Asynchronous-Motor-Model-in-MATLAB/assets/80363244/8a1598ba-83f9-4e5a-9231-d1d88080b783)
+![statorvoltajı](https://github.com/dagaca/Asynchronous-Motor-Simulation-in-MATLAB/assets/80363244/4361330f-5c5e-40f0-9232-f56944dde93e)
+
 
 
 ### Rotor Voltajı Grafiği
 
-![rotorvoltajı](https://github.com/dagaca/Asynchronous-Motor-Model-in-MATLAB/assets/80363244/cd08d8a6-4bba-44a9-927a-3dfa47180098)
+![rotorvoltajı](https://github.com/dagaca/Asynchronous-Motor-Simulation-in-MATLAB/assets/80363244/1e631b40-aed2-4857-ab82-4cd3ddc06d30)
+
 
 
 ## Referanslar
