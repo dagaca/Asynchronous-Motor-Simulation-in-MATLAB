@@ -8,7 +8,7 @@ Bu MATLAB Simulink projesi, "RESEARCH OF THE DIRECT TORQUE CONTROL SYSTEM BY IND
 
 
 
-Motor parametreleri aşağıdaki gibidir:
+**Motor parametreleri aşağıdaki gibidir:**
 
 ![motor_parameters](https://github.com/dagaca/Asynchronous-Motor-Model-in-MATLAB/assets/80363244/8023029f-4f8e-464a-add3-d09c61129fb4)
 
@@ -19,7 +19,7 @@ Motor parametreleri aşağıdaki gibidir:
 - 22 / 151.84 = 0.14489 Nm
 - Friction factor = 0.0009542 F(N.m.s)
 
-- Diğer parametreler kaynak makaleden alınmıştır.
+Diğer parametreler kaynak makaleden alınmıştır.
 
 
 
