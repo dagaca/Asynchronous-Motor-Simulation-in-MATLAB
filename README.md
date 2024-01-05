@@ -5,12 +5,12 @@
 Bu repo, "RESEARCH OF THE DIRECT TORQUE CONTROL SYSTEM BY INDUCTION MOTOR" başlıklı makaleden elde edilen parametrelerle 2 çift kutuplu bir asenkron motorun simülasyonunu içermektedir. Simülasyon, 2 çift kutuplu bir asenkron motorun boşta çalışma koşullarını modellemektedir.
 MATLAB Simulink projesi MATLAB R2017b sürümü kullanılarak oluşturulmuştur.
 
-## Motor Simulink Modeli
+## Asenkron Motor Simulink Modeli
 
 ![simulink_gorsel](https://github.com/dagaca/Asynchronous-Motor-Model-in-MATLAB/assets/80363244/2404f001-978b-42e8-b530-6bd10e4de260)
 
 
-**Motor parametreleri aşağıdaki gibidir:**
+**Asenkron Motor parametreleri aşağıdaki gibidir:**
 
 ![motor_parameters](https://github.com/dagaca/Asynchronous-Motor-Model-in-MATLAB/assets/80363244/8023029f-4f8e-464a-add3-d09c61129fb4)
 
